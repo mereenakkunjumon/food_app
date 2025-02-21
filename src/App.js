@@ -1,11 +1,24 @@
 // import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header';
+import Restaurent from './components/Restaurent';
 
 function App() {
     return (
-      <h1 className="text-3xl font-bold underline bg-red-300 ">
-        Hello mereena
-      </h1>
+      <div>
+        <Header/>
+        <div className="flex flex-wrap  mb-2">
+        <Restaurent/>
+        <Restaurent/>
+        <Restaurent/>
+        <Restaurent/>
+        <Restaurent/>
+        <Restaurent/>
+        <Restaurent/>
+        </div>
+      </div>
+      
+      
     );
 }
 

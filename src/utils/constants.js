@@ -1,0 +1,2 @@
+export const LOGO_URL="https://tse2.mm.bing.net/th?id=OIP.cW3C10wMDP5EpuYjdKow0gHaE8&pid=Api&P=0&h=180"
+export const KIN="https://tse2.mm.bing.net/th?id=OIP.cW3C10wMDP5EpuYjdKow0gHaE8&pid=Api&P=0&h=180"
